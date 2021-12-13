@@ -23,7 +23,7 @@ print(name.count('A'))
 print(name.find('L'))
 print(name.replace('A','K',2))
 print(name.index('A'))
-name1 ="raisa"
+name1 ="abcde"
 name2 ='12345'
 print(name1.islower())
 print(name2.isdecimal())
